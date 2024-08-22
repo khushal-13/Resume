@@ -1,0 +1,18 @@
+NOTES APP :
+
+Designed and developed a user-friendly notes application for Android. 
+
+Built a mobile application allowing users to securely register, login, and manage their personal notes with CRUD                (Create, Read, Update, Delete)  functionalities. 
+        
+Developed an intuitive user interface with layout editor, facilitating interaction between different scenes and enhancing overall user experience, resulting in a increase in user retention and app usability.
+
+
+
+JPMorgan Chase & Co. Software Engineering Lite virtual experience program on
+Forage - August 2024
+
+ * Completed a simulation focused on the process of completing an engineering
+   ticket for a system in the credit-card rewards department of JPMorgan Chase &
+   Co.
+ * Created a new class to get an existing system up and running 
+ * Wrote a test suite for the class added
