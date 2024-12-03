@@ -2,7 +2,7 @@ NOTES APP :
 
 Designed and developed a user-friendly notes application for Android. 
 
-Built a mobile application allowing users to securely register, login, and manage their personal notes with CRUD                (Create, Read, Update, Delete)  functionalities. 
+Built a mobile application allowing users to securely register, login, and manage their personal notes with CRUD (Create, Read, Update, Delete)  functionalities. 
         
 Developed an intuitive user interface with layout editor, facilitating interaction between different scenes and enhancing overall user experience, resulting in a increase in user retention and app usability.
 
